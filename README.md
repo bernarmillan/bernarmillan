@@ -18,7 +18,7 @@ I'm a student currently pursuing a Vocational Degree in Microcomputer Systems an
 
 - 🎯 I'm always eager to improve and take on new challenges.
 
-- 🎨 Outside the tech world, I enjoy doing sports and staying active.
+- 💪🏼 Outside the tech world, I enjoy doing sports and staying active.
 
 - 📫 You can reach me at: bernarmillan@gmail.com
 
