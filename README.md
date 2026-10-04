@@ -22,7 +22,6 @@
 
 - 🔧 **Fuerte en**: redes LAN/VLANs, GNU/Linux y Windows Server, mantenimiento de hardware, virtualización y soporte L1/L2.
 - 🖨️ **Capsule Corp 3D**: diseño y fabricación de piezas personalizadas (Fusion 360 · Blender · FDM) → [@capsulecorp.3d](https://www.instagram.com/capsulecorp.3d/)
-- 🌱 **En aprendizaje**: desarrollo móvil con Flutter y Python.
 - ⚡ **Disponibilidad inmediata** para incorporarme a un equipo de soporte técnico.
 - 🏋️ Fuera del mundo tech: deporte y actividad física.
 
